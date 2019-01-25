@@ -16,9 +16,5 @@ Set-AuthenticodeSignature -FilePath C:\cert\cert1.ps1 -Certificate $cert
  
  
  
- 
- - Kör skriptet. Vad blev resultatet?
-
-OBS! Alla steg är inte med, vilket/vilka saknas?
-
-Lämna in resultatet i en fil med ändelse ".txt" och skriptfilen med ändelse ".ps1"
+ Hej Mats 
+vi Har gåt genom det här tillsamans is skolan och fåt det fungera.
